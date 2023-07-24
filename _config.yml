@@ -3,7 +3,8 @@
 
 title: ""
 author: Justin Munoz
-logo: ./images/img2-4.png
+logo: ./images/new-logo.png
+# logo: ./images/img2-4.png
 copyright: "2023"
 only_build_toc_files: true
 
